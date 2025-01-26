@@ -1,3 +1,4 @@
 xhofe/alist
 b3log/siyuan
 nagimov/agendav-docker
+shenxianmq/auto_symlink
