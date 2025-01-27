@@ -3,3 +3,4 @@ b3log/siyuan
 nagimov/agendav-docker
 --platform=amd64 shenxianmq/auto_symlink
 --platform=arm64 shenxianmq/auto_symlink
+--platform=arm64 jellyfin/jellyfin
