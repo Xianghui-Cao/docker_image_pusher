@@ -5,3 +5,4 @@ nagimov/agendav-docker
 --platform=arm64 shenxianmq/auto_symlink
 --platform=arm64 jellyfin/jellyfin
 --platform=arm64 number17/kikoeru
+vaultwarden/server
