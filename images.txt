@@ -6,3 +6,4 @@ nagimov/agendav-docker
 --platform=arm64 jellyfin/jellyfin
 --platform=arm64 number17/kikoeru
 vaultwarden/server
+fredliang/derper
