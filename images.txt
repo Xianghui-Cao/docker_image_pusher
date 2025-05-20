@@ -7,3 +7,4 @@ nagimov/agendav-docker
 --platform=arm64 number17/kikoeru
 vaultwarden/server
 fredliang/derper
+zidean/zidean.cinema.ex
