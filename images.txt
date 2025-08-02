@@ -8,3 +8,4 @@ nagimov/agendav-docker
 vaultwarden/server
 fredliang/derper
 zidean/zidean.cinema.ex
+snowdreamtech/frps
