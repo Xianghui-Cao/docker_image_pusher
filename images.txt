@@ -9,3 +9,4 @@ vaultwarden/server
 fredliang/derper
 zidean/zidean.cinema.ex
 snowdreamtech/frps
+emby/embyserver
